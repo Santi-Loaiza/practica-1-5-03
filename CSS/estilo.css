@@ -1,0 +1,29 @@
+h1{
+    font-size: 2rem;
+    color: rgb(143, 188, 180);
+    background: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.fraseInicio{
+    color: rgb(205, 221, 255);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgba(0, 0, 0, 0.911);
+}
+body{
+    background: lightgray;
+}
+h2{
+    font-size: 1.5rem;
+    color: rgb(0, 134, 139);
+    background: rgba(211, 205, 205, 0.603);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    font-size: 1.3rem;
+    color: rgb(0, 21, 139);
+    background: rgba(238, 235, 235, 0.842);
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
